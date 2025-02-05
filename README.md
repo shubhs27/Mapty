@@ -57,8 +57,6 @@ app.reset();
 - Integration with fitness APIs for additional workout tracking.
 - User authentication for cloud storage.
 
-## Author
-**Shubhanan Sharma**
 
 ## License
 This project is licensed under the MIT License.
