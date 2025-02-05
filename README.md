@@ -58,9 +58,12 @@ app.reset();
 - User authentication for cloud storage.
 
 
+## Acknowledgments
+- This project is part of Jonas Schmedtmann's Udemy course - The Complete JavaScript Course 2025: From Zero to Expert!
+- All assets and UI components are inspired by the course material.
+
 ## License
 This project is licensed under the MIT License.
 
-## Note
-This project is part of Jonas Schmedtmann's Udemy course - The Complete JavaScript Course 2025: From Zero to Expert!
-
+---
+Feel free to modify and enhance this project as needed!
